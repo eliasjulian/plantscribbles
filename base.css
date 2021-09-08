@@ -45,6 +45,10 @@ a:hover {
     color: rgb(84, 30, 84);
 }
 
+.card-link {
+    text-decoration: none;
+}
+
 .navigation {
     display: flex;
     justify-content: space-between;
