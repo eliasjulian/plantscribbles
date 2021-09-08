@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5 {
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-weight: 900;
     letter-spacing: -.05rem;
+    font-kerning: normal;
     color: rgb(123, 54, 123);
 }
 
